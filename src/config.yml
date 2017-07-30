@@ -1,0 +1,19 @@
+GUI:
+  Title: "&4Spawner Shop"
+  Spawners:
+    '1':
+      Type: Creeper
+      Price: 100000
+      Lore:
+        - 'Line 1'
+        - 'The price is &c<price>'
+      DisplayName: "&eCreeper Spawner"
+      Permission: spawnershop.creeper
+    '2':
+      Type: Golem
+      Price: 1000000
+      Lore:
+       - 'Line 1'
+       - 'The price is &4<price>'
+      DisplayName: "&cGolem Spawner"
+      Permission: spawnershop.golem
